@@ -1,0 +1,21 @@
+{
+  "name": "drivetech-icons",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Drivetech/drivetech-icons",
+  "authors": [
+    "Leonardo Gatica <lgaticastyle@gmail.com>"
+  ],
+  "description": "Icons of vehicles from Flaticons",
+  "main": "css/flaticon.css",
+  "keywords": [
+    "icons"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

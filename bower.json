@@ -1,9 +1,13 @@
 {
   "name": "drivetech-icons",
   "version": "0.0.1",
-  "homepage": "https://github.com/Drivetech/drivetech-icons",
+  "homepage": "https://github.com/drivetech/drivetech-icons",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drivetech/drivetech-icons.git"
+  },
   "authors": [
-    "Leonardo Gatica <lgaticastyle@gmail.com>"
+    "Leonardo Gatica <lgatica@protonmail.com>"
   ],
   "description": "Icons of vehicles from Flaticons",
   "main": "css/flaticon.css",
@@ -16,6 +20,9 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "example",
+    ".editorconfig",
+    "README.md"
   ]
 }

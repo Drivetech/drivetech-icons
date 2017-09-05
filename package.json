@@ -1,0 +1,21 @@
+{
+  "name": "drivetech-icons",
+  "version": "0.0.1",
+  "description": "Icons of vehicles from Flaticons",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drivetech/drivetech-icons.git"
+  },
+  "author": "Leonardo Gatica <lgatica@protonmail.com> (https://about.me/lgatica)",
+  "keywords": [
+    "icons"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drivetech/drivetech-icons/issues"
+  },
+  "homepage": "https://github.com/drivetech/drivetech-icons#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
